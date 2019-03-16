@@ -1,0 +1,188 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <TickerBrokerStandardDateLineitemValue>
+    <Weightage>2</Weightage>
+    <TabName>Consensus Model</TabName>
+    <StandardDate />
+    <BRTab />
+    <BRLineItem />
+    <Action />
+    <StandardLineItem>Net Revenue</StandardLineItem>
+    <StandardValue />
+    <BrokerName />
+    <CalValue />
+    <DataAsOfComment />
+    <BrokernameComment />
+    <OnlyLiComment />
+    <SelectivePeriodComment />
+    <AvgComment />
+    <IsAllowEstimate>false</IsAllowEstimate>
+    <IgnoreValue>false</IgnoreValue>
+    <IsQcCheck>true</IsQcCheck>
+    <IsHistoric>false</IsHistoric>
+    <CustomFormula />
+    <Q1CrossCalc />
+    <Q2CrossCalc />
+    <Q3CrossCalc />
+    <Q4CrossCalc />
+    <FYCrossCalc />
+    <FormulaQcComment />
+    <FormulaLiConfig />
+    <QcType />
+    <InternalComment />
+    <ExternalComment />
+    <AllowedDecimalPlace>1</AllowedDecimalPlace>
+    <CurrencySign>$</CurrencySign>
+    <AllowPercentageSign>false</AllowPercentageSign>
+    <AllowComma>true</AllowComma>
+    <HistoryValue />
+  </TickerBrokerStandardDateLineitemValue>
+  <TickerBrokerStandardDateLineitemValue>
+    <Weightage>2</Weightage>
+    <TabName>Operational Metrics</TabName>
+    <StandardDate />
+    <BRTab />
+    <BRLineItem />
+    <Action />
+    <StandardLineItem>Net Orders</StandardLineItem>
+    <StandardValue />
+    <BrokerName />
+    <CalValue />
+    <DataAsOfComment />
+    <BrokernameComment />
+    <OnlyLiComment />
+    <SelectivePeriodComment />
+    <AvgComment />
+    <IsAllowEstimate>false</IsAllowEstimate>
+    <IgnoreValue>false</IgnoreValue>
+    <IsQcCheck>true</IsQcCheck>
+    <IsHistoric>false</IsHistoric>
+    <CustomFormula />
+    <Q1CrossCalc />
+    <Q2CrossCalc />
+    <Q3CrossCalc />
+    <Q4CrossCalc />
+    <FYCrossCalc />
+    <FormulaQcComment />
+    <FormulaLiConfig />
+    <QcType />
+    <InternalComment />
+    <ExternalComment />
+    <AllowedDecimalPlace>0</AllowedDecimalPlace>
+    <CurrencySign>$</CurrencySign>
+    <AllowPercentageSign>false</AllowPercentageSign>
+    <AllowComma>true</AllowComma>
+    <HistoryValue />
+  </TickerBrokerStandardDateLineitemValue>
+  <TickerBrokerStandardDateLineitemValue>
+    <Weightage>2</Weightage>
+    <TabName>Key Financials</TabName>
+    <StandardDate />
+    <BRTab />
+    <BRLineItem />
+    <Action />
+    <StandardLineItem>Total Liabilities &amp; Shareholders' Equity</StandardLineItem>
+    <StandardValue />
+    <BrokerName />
+    <CalValue />
+    <DataAsOfComment />
+    <BrokernameComment />
+    <OnlyLiComment />
+    <SelectivePeriodComment />
+    <AvgComment />
+    <IsAllowEstimate>false</IsAllowEstimate>
+    <IgnoreValue>false</IgnoreValue>
+    <IsQcCheck>true</IsQcCheck>
+    <IsHistoric>false</IsHistoric>
+    <CustomFormula />
+    <Q1CrossCalc />
+    <Q2CrossCalc />
+    <Q3CrossCalc />
+    <Q4CrossCalc />
+    <FYCrossCalc />
+    <FormulaQcComment />
+    <FormulaLiConfig />
+    <QcType />
+    <InternalComment />
+    <ExternalComment />
+    <AllowedDecimalPlace>1</AllowedDecimalPlace>
+    <CurrencySign>$</CurrencySign>
+    <AllowPercentageSign>false</AllowPercentageSign>
+    <AllowComma>true</AllowComma>
+    <HistoryValue />
+  </TickerBrokerStandardDateLineitemValue>
+  <TickerBrokerStandardDateLineitemValue>
+    <Weightage>2</Weightage>
+    <TabName>Key Financials</TabName>
+    <StandardDate />
+    <BRTab />
+    <BRLineItem />
+    <Action />
+    <StandardLineItem>Free Cash Flow</StandardLineItem>
+    <StandardValue />
+    <BrokerName />
+    <CalValue />
+    <DataAsOfComment />
+    <BrokernameComment />
+    <OnlyLiComment />
+    <SelectivePeriodComment />
+    <AvgComment />
+    <IsAllowEstimate>false</IsAllowEstimate>
+    <IgnoreValue>false</IgnoreValue>
+    <IsQcCheck>true</IsQcCheck>
+    <IsHistoric>false</IsHistoric>
+    <CustomFormula />
+    <Q1CrossCalc />
+    <Q2CrossCalc />
+    <Q3CrossCalc />
+    <Q4CrossCalc />
+    <FYCrossCalc />
+    <FormulaQcComment />
+    <FormulaLiConfig />
+    <QcType />
+    <InternalComment />
+    <ExternalComment />
+    <AllowedDecimalPlace>1</AllowedDecimalPlace>
+    <CurrencySign>$</CurrencySign>
+    <AllowPercentageSign>false</AllowPercentageSign>
+    <AllowComma>true</AllowComma>
+    <HistoryValue />
+  </TickerBrokerStandardDateLineitemValue>
+  <TickerBrokerStandardDateLineitemValue>
+    <Weightage>2</Weightage>
+    <TabName>Key Financials</TabName>
+    <StandardDate />
+    <BRTab />
+    <BRLineItem />
+    <Action />
+    <StandardLineItem>Total Deferred Revenue</StandardLineItem>
+    <StandardValue />
+    <BrokerName />
+    <CalValue />
+    <DataAsOfComment />
+    <BrokernameComment />
+    <OnlyLiComment />
+    <SelectivePeriodComment />
+    <AvgComment />
+    <IsAllowEstimate>false</IsAllowEstimate>
+    <IgnoreValue>false</IgnoreValue>
+    <IsQcCheck>true</IsQcCheck>
+    <IsHistoric>false</IsHistoric>
+    <CustomFormula />
+    <Q1CrossCalc />
+    <Q2CrossCalc />
+    <Q3CrossCalc />
+    <Q4CrossCalc />
+    <FYCrossCalc />
+    <FormulaQcComment />
+    <FormulaLiConfig />
+    <QcType />
+    <InternalComment />
+    <ExternalComment />
+    <AllowedDecimalPlace>1</AllowedDecimalPlace>
+    <CurrencySign>$</CurrencySign>
+    <AllowPercentageSign>false</AllowPercentageSign>
+    <AllowComma>true</AllowComma>
+    <HistoryValue />
+  </TickerBrokerStandardDateLineitemValue>
+</NewDataSet>

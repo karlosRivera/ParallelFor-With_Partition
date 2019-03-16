@@ -1,0 +1,515 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Net Revenue</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>1</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Cost of Revenue</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>2</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Cost of Revenue-GAAP</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>3</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Gross Profit</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>4</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Gross Profit-GAAP</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>5</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Engineering and Development</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>6</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Selling and Administrative</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>7</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Acquired intangible asset amortization</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>8</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Restructuring and other</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>9</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Total Operating Expenses</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>10</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Total Operating Expenses-GAAP</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>11</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>EBITDA</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>12</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Operating Income</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>13</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Operating Income, GAAP</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>14</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Interest Expense and Other</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>15</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Interest Expense and Other, GAAP</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>16</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Pre-Tax Income</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>17</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Pre-Tax Income, GAAP</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>18</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Taxes/(Benefit)</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>19</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Taxes/(Benefit), GAAP</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>20</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Tax Rate</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>21</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Tax Rate, GAAP</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>22</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Net Income</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>23</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Net Income, GAAP</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>24</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Diluted Shares Outstanding</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>25</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>Diluted Shares Outstanding-GAAP</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>26</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>EPS</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>27</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>GAAP EPS</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>28</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Consensus Model</Section>
+    <Lineitem>DPS</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>29</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Segment Details</Section>
+    <Lineitem>Semiconductor Test</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>30</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Segment Details</Section>
+    <Lineitem>Wireless Test</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>31</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Segment Details</Section>
+    <Lineitem>Systems Test</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>32</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Segment Details</Section>
+    <Lineitem>Industrial Automation</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>33</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Operational Metrics</Section>
+    <Lineitem>Semiconductor Test, Bookings</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>34</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Operational Metrics</Section>
+    <Lineitem>Wireless Test, Bookings</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>35</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Operational Metrics</Section>
+    <Lineitem>Systems Test, Bookings</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>36</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Operational Metrics</Section>
+    <Lineitem>Industrial Automation, Bookings</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>37</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Operational Metrics</Section>
+    <Lineitem>Net Orders</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>38</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Operational Metrics</Section>
+    <Lineitem>Semiconductor Test, Book to Bill</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>39</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Operational Metrics</Section>
+    <Lineitem>Wireless Test, Book to Bill</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>40</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Operational Metrics</Section>
+    <Lineitem>Systems Test, Book to Bill</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>41</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Operational Metrics</Section>
+    <Lineitem>Industrial Automation, Book to Bill</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>42</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Operational Metrics</Section>
+    <Lineitem>Total Book to Bill</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>43</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Operational Metrics</Section>
+    <Lineitem>Backlog</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>44</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Total Current Assets</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>45</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Total Assets</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>46</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Total Current Liabilities</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>47</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Total Liabilities</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>48</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Total Liabilities &amp; Shareholders' Equity</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>49</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Short - Term Deferred Revenue</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>50</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Long - Term Deferred Revenue</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>51</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Total Deferred Revenue</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>52</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Cash Flow from Operating Activities</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>53</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Capital Expenditure</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>54</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Free Cash Flow</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>55</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Repurchase of Common Stock</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>56</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Dividend payments</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>57</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>ROE</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>58</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>ROA</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>59</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Book Value Per Share</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>60</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Current Ratio</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>61</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Quick Ratio</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>62</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>DSO</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>63</Id>
+  </WeightageRowNumber>
+  <WeightageRowNumber>
+    <Broker />
+    <Section>Key Financials</Section>
+    <Lineitem>Days of Inventory</Lineitem>
+    <RowNumber>-1</RowNumber>
+    <Weightage>0</Weightage>
+    <Id>64</Id>
+  </WeightageRowNumber>
+</NewDataSet>
