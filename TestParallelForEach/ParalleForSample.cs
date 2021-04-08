@@ -31,6 +31,13 @@ namespace TaskPartitionExample
                 (subtotal) => Interlocked.Add(ref ageTotal, subtotal)
             );
 
+            //List<Person> persons1=new List<Person>();
+            //Parallel.ForEach(persons,new Person(), drow =>
+            //    {
+
+            //    },
+            //    (persons1)=> lock{}
+            //);
 
             MessageBox.Show(ageTotal.ToString());
         }
@@ -47,6 +54,34 @@ namespace TaskPartitionExample
             };
 
             return p;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+            int[] nums = Enumerable.Range(0, 7).ToArray();
+            long total = 0;
+
+            // First type parameter is the type of the source elements
+            // Second type parameter is the type of the thread-local variable (partition subtotal)
+            Parallel.ForEach<int, long>(nums, // source collection
+                                            new ParallelOptions { MaxDegreeOfParallelism = 1 },
+                                            () => 0, // method to initialize the local variable
+                                            (j, loop, subtotal) => // method invoked by the loop on each iteration
+                                            {
+                                                subtotal += j; //modify local variable
+                                                return subtotal; // value to be passed to next iteration
+                                            },
+                                            // Method to be executed when each partition has completed.
+                                            // finalResult is the final value of subtotal for a particular partition.
+                                            (finalResult) => 
+                                            {
+                                                Interlocked.Add(ref total, finalResult);
+                                            }
+                                        );
+
+            //Console.WriteLine("The total from Parallel.ForEach is {0:N0}", total);
+            MessageBox.Show(total.ToString());
         }
     }
 
