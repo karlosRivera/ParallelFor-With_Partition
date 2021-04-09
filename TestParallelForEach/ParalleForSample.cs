@@ -31,18 +31,10 @@ namespace TaskPartitionExample
                 (subtotal) => Interlocked.Add(ref ageTotal, subtotal)
             );
 
-            //List<Person> persons1=new List<Person>();
-            //Parallel.ForEach(persons,new Person(), drow =>
-            //    {
-
-            //    },
-            //    (persons1)=> lock{}
-            //);
-
             MessageBox.Show(ageTotal.ToString());
         }
 
-        static List<Person> GetPerson()
+        private List<Person> GetPerson()
         {
             List<Person> p = new List<Person>
             {
@@ -82,6 +74,29 @@ namespace TaskPartitionExample
 
             //Console.WriteLine("The total from Parallel.ForEach is {0:N0}", total);
             MessageBox.Show(total.ToString());
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            List<Person> persons = GetPerson();
+            var persons1 = new List<Person>();
+            var locker = new object();
+            Parallel.ForEach(
+                persons,
+                () => new List<Person>(), // initialize aggregate per thread 
+                (person, loopState, subtotal) =>
+                {
+                    subtotal.Add(person); // add current thread element to aggregate 
+                    return subtotal; // return current thread aggregate
+                },
+                p => // action to combine all threads results
+                {
+                    lock (locker) // lock, cause List<T> is not a thread safe collection
+                    {
+                        persons1.AddRange(p);
+                    }
+                }
+            );
         }
     }
 
